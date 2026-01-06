@@ -1,5 +1,5 @@
-name: appinventor.ai_dillen99999999.fwefefef
-description: "A new Flutter project."
+name: vocabpass
+description: "超級單字 app - 台灣英文單字學習應用程式"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -31,11 +31,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.6
-  http: ^0.13.3 
+  cupertino_icons: ^1.0.8
+  http: ^1.2.0
+  shared_preferences: ^2.2.2 
 dev_dependencies:
   flutter_test:
     sdk: flutter

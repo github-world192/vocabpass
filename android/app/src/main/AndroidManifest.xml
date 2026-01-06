@@ -1,6 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="appinventor.ai_dillen99999999.fwefefef">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.vocabpass.app">
     <application
-        android:label="eng_vab"
+        android:label="超級單字"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
